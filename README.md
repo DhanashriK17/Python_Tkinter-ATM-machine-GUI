@@ -16,7 +16,7 @@ This project is a graphical user interface (GUI) application for simulating and 
 
 ## Getting Started
 
-- **Clone the repository:** `git clone https://github.com/DhanashriK17/Python_Tkinter-ATM-machine-GUI`
+- **Clone the repository:** git clone https://github.com/DhanashriK17/Python_Tkinter-ATM-machine-GUI
 - **Install dependencies:** `pip install -r requirements.txt`
 - **Run the application:** `python main.py`
 
