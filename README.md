@@ -1,4 +1,4 @@
-# Python_TkinterGUI
+# Python_Tkinter-ATM-machine-GUI
 This project is a graphical user interface (GUI) application for simulating and managing ATM machine processes. It provides a user-friendly interface for performing typical ATM transactions. The project is implemented in Python, utilizing the Tkinter library for the GUI components.
 
 ## Features
@@ -16,9 +16,9 @@ This project is a graphical user interface (GUI) application for simulating and 
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/atm-machine-gui.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the application: `python main.py`
+- **Clone the repository:** `git clone https://github.com/DhanashriK17/Python_Tkinter-ATM-machine-GUI`
+- **Install dependencies:** `pip install -r requirements.txt`
+- **Run the application:** `python main.py`
 
 ## Usage
 
